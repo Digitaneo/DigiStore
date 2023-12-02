@@ -1,0 +1,2 @@
+# DigiStore
+Digitaneo.com Store
